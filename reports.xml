@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studies>
+  <study>
+    <studyUID>1.2.840.100009.0.18.4.8.757.1.0.4.8.67263.1684367306.12344367.12</studyUID>
+    <studyDate format="dd/MM/yyyy">17/05/2023</studyDate>
+    <modalities>MR</modalities>
+    <patientID>E00385640</patientID>
+    <patientName>DE LA MORA VEGA PABLO</patientName>
+    <reportPath></reportPath>
+  </study>
+</studies>
